@@ -1,3 +1,4 @@
+[ Source code here](https://github.com/bablukumar-1/Snake_Game)
 # 🐍 Snake Game – Classic Fun with a Modern Touch! 🎮
 
 This Snake Game is a fun and interactive browser-based game built with HTML, CSS, and JavaScript. Inspired by the classic arcade game, this version comes with smooth controls, a dynamic game board, and adjustable speed settings to enhance your gaming experience!
@@ -17,5 +18,5 @@ This Snake Game is a fun and interactive browser-based game built with HTML, CSS
 https://github.com/user-attachments/assets/a9229154-b2bb-4c79-ae81-0d2f34bdd293
 
 
-[ Source code here]()
+
 
